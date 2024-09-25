@@ -6,7 +6,7 @@ As an **HR Analyst**, I developed a visually immersive and interactive dashboard
 
 ## HR Analytics Dashboard Screenshot
 
-<img width="499" alt="Screenshot 2024-09-26 034036" src="https://github.com/user-attachments/assets/4f8244bc-338c-45c6-b663-f12df32c77c4">
+<img width="1000" alt="Screenshot 2024-09-26 034036" src="https://github.com/user-attachments/assets/4f8244bc-338c-45c6-b663-f12df32c77c4">
 
 ---
 
